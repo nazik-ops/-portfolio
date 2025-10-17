@@ -1,0 +1,83 @@
+body{ 
+    background-color: rgb(127, 184, 210);
+    
+}
+.main{ 
+display: flex;
+ justify-content:space-around;
+
+
+ }
+  .a{ width: 300px;
+ height:700px;
+   border-radius:20%;
+   background-color: rgb(203, 169, 169) ;
+   box-shadow:0px 0px 10px 4px ; 
+   
+
+}
+ .B{ width: 300px;
+height: 700px ;
+background-color:rgb(203, 169, 169);
+ box-shadow:0px 0px 10px 4px;
+border-radius: 20%;
+}
+.c{ width:300px ;
+height: 700px;
+ background-color:rgb(203, 169, 169) ;
+ box-shadow: 0px 0px 10px 4px;
+ border-radius: 20%;
+}
+.name1{ padding: 10px;
+}
+.a img{ width: 200px;
+     height:200px;
+    border-radius: 255px;
+  margin-left:25px;
+  padding: 5px;
+  border: 5px solid;
+ }
+ .name2{ padding: 10px;
+}
+ .B img{ width: 200px;
+ height:200px ;
+border-radius:255px ;
+margin-left:25px;
+padding:5px ;
+border: 5px solid;
+}
+.name3{ padding: 10px;
+}
+.c img{ width: 200px;
+ height: 200px ;
+ border-radius: 255px;
+ margin-left: 25px;
+ padding: 5px;
+border:5px solid;
+}
+.pro1{margin: 10px;
+color: rgb(10, 10, 12);
+font-size:  23px;
+}
+.pro2{ margin: 10px;
+  color: rgb(10, 10, 12);
+  font-size: 23px;
+ }
+.pro3{ margin: 10px;
+color: rgb(10, 10, 12);
+font-size: 23px;
+
+}
+.re{ color: blueviolet; 
+  display: flex;
+justify-content: space-around;
+font-size:23px;
+}
+.re2{ color:blueviolet ;
+ display: flex;
+ justify-content: space-around;
+ font-size:20px;}
+ .re3{ color: blueviolet;
+display: flex;
+justify-content: space-around;
+font-size: 20px;}
